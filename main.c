@@ -16,7 +16,7 @@
 //       （默认值） 0 来源于 PLL0_SYSCLK2
 //                  1 来源于 PLL1_SYSCLK2
 //       如果不是为了降低功耗，不建议修改这个值，它会影响所有相关外设的时钟频率
-
+//test
 
 #define GLOBAL_VAR
 
